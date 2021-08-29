@@ -4,8 +4,22 @@
 
 @layer components {
   :root {
-
+    --theme: #000000;
   }
 
-  html,body {}
+  html,body {
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-family: "Poppins", "Open Sans", "Helvetica", Arial, sans-serif;
+    font-weight: 400;
+    overflow-x:hidden;
+  }
+
+  article, figcaption, figure, main, aside, video, section, article {
+    display: block;
+  }
 }

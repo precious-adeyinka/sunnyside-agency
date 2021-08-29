@@ -1,8 +1,9 @@
 import Head from "next/head";
 
 // components
+import Home from '../components/views/Home/Home';
 
-export default function Home() {
+export default function Index() {
   return (
     <div className="h-screen w-full">
       <Head>
