@@ -19,8 +19,8 @@ export default function Index() {
         />
         <meta name="description" content="agency, sunny side" />
         <meta name="author" content="Precious Adeyinka" />
-        <meta name="theme" content="#000000" />
-        <meta name="theme-color" content="#000000" />
+        <meta name="theme" content="#3dbeff" />
+        <meta name="theme-color" content="#3dbeff" />
 
         {/* Icons */}
         <link 
