@@ -1,0 +1,11 @@
+
+.white {
+  background: hsl(0, 0%, 100%);
+}
+/* Text Colors */
+.desaturatedBlue {
+  color: hsl(212, 27%, 19%);
+}
+.veryDarkGreyBlue {
+  color: hsl(213, 9%, 39%);
+}
