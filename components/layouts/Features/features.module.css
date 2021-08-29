@@ -1,0 +1,106 @@
+.negIndex {
+  z-index: -1;
+}
+
+/* Background Colors */
+.yellow,
+.transformGroupHover:hover span {
+  background: hsl(51, 100%, 49%);
+}
+.paleYellow {
+  background: hsl(51, 100%, 90%);
+}
+
+.red,
+.standOutGroupHover:hover span {
+  background: hsl(7, 99%, 70%);
+}
+.paleRed {
+  background: hsl(7, 99%, 90%);
+}
+
+/* Text Colors */
+.desaturatedBlue {
+  color: hsl(212, 27%, 19%);
+}
+.veryDarkGreyBlue {
+  color: hsl(213, 9%, 39%);
+}
+
+.photographyText {
+  color: hsl(198, 62%, 26%);
+}
+.graphicDesignText {
+  color: hsl(167, 40%, 24%);
+}
+
+/* Images */
+/* .transformBgMobile,
+.transformBgDesktop,
+.standOutBgMobile,
+.standOutBgesktop {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+} */
+.transformBgMobile {
+  background: url('../../../public/assets/images/mobile/image-transform.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+
+}
+.transformBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-transform.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.standOutBgMobile {
+  background: url('../../../public/assets/images/mobile/image-stand-out.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.standOutBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-stand-out.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.photographyBgMobile {
+  background: url('../../../public/assets/images/mobile/image-photography.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.photographyBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-photography.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.graphicDesignBgMobile {
+  background: url('../../../public/assets/images/mobile/image-graphic-design.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.graphicDesignBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-graphic-design.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
