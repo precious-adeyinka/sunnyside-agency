@@ -8,10 +8,10 @@ export default function Index() {
     <div className="h-screen w-full">
       <Head>
         <title>Sunny Side Agency</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/assets/images/favicon-32x32.png" />
 
         {/* META */}
-        <meta charset="utf-8" />
+        <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="keywords"

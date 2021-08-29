@@ -31,7 +31,7 @@ const MobileNav = ({ status }) => {
         {/* Buttons */}
         <li className="h-auto w-full flex justify-center items-center">
           <button
-            className={`h-14 w-32 ${styled.bgYellow} text-gray-800 shadow-lg text-md font-bold 
+            className={`h-12 w-32 ${styled.bgYellow} text-gray-800 shadow-lg text-md font-bold 
           flex justify-center items-center rounded-3xl border-0 py-3 px-5 focus:outline-none`}
           >
             CONTACT
