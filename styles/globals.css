@@ -14,12 +14,23 @@
     padding: 0;
     font-size: 1rem;
     line-height: 1.5;
-    font-family: "Poppins", "Open Sans", "Helvetica", Arial, sans-serif;
+    font-family: "Fraunces", "Open Sans", "Helvetica", Arial, sans-serif;
     font-weight: 400;
     overflow-x:hidden;
+    scroll-behavior: smooth;
   }
 
   article, figcaption, figure, main, aside, video, section, article {
     display: block;
+  }
+
+  /* Typography */
+  .font-barlow {
+    font-family: "Barlow", "Open Sans", "Helvetica", Arial, sans-serif;
+    font-weight: 500;
+  }
+  .font-fraunces {
+    font-family: "Fraunces", "Open Sans", "Helvetica", Arial, sans-serif;
+    font-weight: 500;
   }
 }

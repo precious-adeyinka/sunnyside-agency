@@ -1,0 +1,12 @@
+.mobilenavAfter::after {
+  content: "";
+  border-width: 20px;
+  border-style: solid;
+  border-color: transparent #fff #fff transparent;
+  position: absolute;
+  top: -40px;
+  right: 0;
+}
+.bgYellow {
+  background: hsl(51, 100%, 49%); /*Yellow*/
+}

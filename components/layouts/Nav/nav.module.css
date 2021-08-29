@@ -1,0 +1,7 @@
+.desaturatedWhite:hover {
+  background: rgba(255,255,255,0.30);
+  backdrop-filter: blur(3px);
+  box-shadow: none;
+  color: #fff;
+  transition: all 300ms ease;
+}

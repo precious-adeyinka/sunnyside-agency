@@ -1,0 +1,14 @@
+.headerBgMobile {
+  background: url('../../../public/assets/images/mobile/image-header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.headerBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}

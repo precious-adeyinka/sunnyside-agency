@@ -1,0 +1,13 @@
+  /* Global Utilities */
+  .responsiveVisibility {
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+  }
+  @media (min-width: 768px) {
+    .responsiveVisibility {
+      display: block;
+      visibility: visible;
+      opacity: 1;
+    }
+  }
