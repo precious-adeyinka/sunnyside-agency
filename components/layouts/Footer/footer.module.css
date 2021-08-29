@@ -1,0 +1,74 @@
+/* Images */
+.coneBgMobile {
+  background: url('../../../public/assets/images/mobile/image-gallery-cone.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.coneBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-gallery-cone.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.milkbottlesBgMobile {
+  background: url('../../../public/assets/images/mobile/image-gallery-milkbottles.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.milkbottlesBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-gallery-milkbottles.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.orangeBgMobile {
+  background: url('../../../public/assets/images/mobile/image-gallery-orange.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.orangeBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-gallery-orange.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.sugarCubesBgMobile {
+  background: url('../../../public/assets/images/mobile/image-gallery-sugar-cubes.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+.sugarCubesBgDesktop {
+  background: url('../../../public/assets/images/desktop/image-gallery-sugarcubes.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+/* Text Colors */
+.desaturatedBlue {
+  color: hsl(212, 27%, 19%);
+}
+.green {
+  color: hsl(167, 40%, 24%);
+}
+.paleGreen {
+  background: hsl(167, 40%, 70%);
+}
+.veryDarkGreyBlue {
+  color: hsl(213, 9%, 39%);
+}
