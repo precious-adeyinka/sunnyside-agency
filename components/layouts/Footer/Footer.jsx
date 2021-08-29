@@ -42,13 +42,13 @@ const Footer = () => {
         <div className="mt-10 flex justify-center items-center">
           <ul className="flex justify-center items-center space-x-16">
             <li className={`${styled.green} hover:text-white font-bold text-xl md:text-lg font-barlow`}>
-              <Link href="/about">About</Link>
+              <Link href="#">About</Link>
             </li>
             <li className={`${styled.green} hover:text-white font-bold text-xl md:text-lg font-barlow`}>
-              <Link href="/services">Services</Link>
+              <Link href="#">Services</Link>
             </li>
             <li className={`${styled.green} hover:text-white font-bold text-xl md:text-lg font-barlow`}>
-              <Link href="/projects">Projects</Link>
+              <Link href="#">Projects</Link>
             </li>
           </ul>
         </div>
